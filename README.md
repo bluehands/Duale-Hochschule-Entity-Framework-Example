@@ -1,2 +1,2 @@
-# Duale-Hochschule-Entity_Framework
+# Duale-Hochschule: Entity Framework
 Very basic Demo for EF
